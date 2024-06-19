@@ -1,0 +1,11 @@
+asgiref==3.8.1
+Django==5.0.6
+markdown-it-py==3.0.0
+mdurl==0.1.2
+prompt-toolkit==3.0.36
+Pygments==2.18.0
+questionary==2.0.1
+rich==13.7.1
+sqlparse==0.5.0
+tzdata==2024.1
+wcwidth==0.2.13
